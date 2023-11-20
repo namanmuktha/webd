@@ -8,3 +8,7 @@ body{
     margin-left: 50%;
     align-items: right;
 }
+.huge{
+    font-size: 1000rem;
+    color : palevioletred;
+}
